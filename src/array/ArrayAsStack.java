@@ -1,5 +1,8 @@
 package array;
-
+/**
+ * @author Shubham
+ *
+ */
 
 import java.util.Scanner;
 
